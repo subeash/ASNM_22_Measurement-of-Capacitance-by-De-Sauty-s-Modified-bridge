@@ -1,10 +1,11 @@
 ## Procedure
 
-<p align="center">
+<div align="center">
 
 ![Rm501 Figure](images/bd4.jpg)
 
 ***Fig. 1. Circuit digram of experimental set-up for De Sauty's Modified Bridge***
+	</div>
 <p>1) &nbsp;Set the voltage (V=3V) and Frequency (50Hz). Also set the unknown capacitance value from 'Set Capacitor Value' tab</p>
 							<br />
 							<p>2) &nbsp;Then switch on the supply to get millivoltmeter deflection.</p>
